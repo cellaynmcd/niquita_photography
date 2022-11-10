@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css?family=Sofia:regular');
+body {
+  background-color: #80ffd4;
+}
+h1 {
+ font-family: 'sofia';
+  margin-top: 0%;
+  font-size: 100px;
+  text-align: center;
+  color:#4c4c4c;
+}
+h2 {
+  padding-top: 0px;
+  font-family: 'sofia';
+  font-size: 50px;
+  text-align: center;
+  color:#4c4c4c;
